@@ -4,11 +4,11 @@ IMAGEN DE CAMARA ACTIVA
 PULSA [KEY] PARA ACTIVAR/DESACTIVAR EL MAPA
 Experiencia obtenida:
 Trabajo en equipo
-Asitencia , Clase D eliminado
-Asitencia , Insurgente eliminado
-Asitencia , MTF eliminado
-Asitencia , Cientifico eliminado
-Asitencia , SCP eliminado
+Asistencia , Clase D eliminado
+Asistencia , Insurgente eliminado
+Asistencia , MTF eliminado
+Asistencia , Cientifico eliminado
+Asistencia , SCP eliminado
 PUERTAS BLOQUEADAS: [LOCKED_NUM]<size=25>CLIC DERECHO PARA DESBLOQUEAR TODAS</size>
 Interacciones en general
 Te estan atacando!
